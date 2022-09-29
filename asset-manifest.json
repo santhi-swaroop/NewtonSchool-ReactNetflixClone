@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/NewtonSchool-ReactNetflixClone/static/css/main.f3c206c0.css",
+    "main.js": "/NewtonSchool-ReactNetflixClone/static/js/main.e7f3a5cf.js",
+    "static/media/fa-solid-900.ttf": "/NewtonSchool-ReactNetflixClone/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/NewtonSchool-ReactNetflixClone/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/NewtonSchool-ReactNetflixClone/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "/NewtonSchool-ReactNetflixClone/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/fa-regular-400.ttf": "/NewtonSchool-ReactNetflixClone/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/fa-regular-400.woff2": "/NewtonSchool-ReactNetflixClone/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/fa-v4compatibility.ttf": "/NewtonSchool-ReactNetflixClone/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/NewtonSchool-ReactNetflixClone/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/NewtonSchool-ReactNetflixClone/index.html",
+    "main.f3c206c0.css.map": "/NewtonSchool-ReactNetflixClone/static/css/main.f3c206c0.css.map",
+    "main.e7f3a5cf.js.map": "/NewtonSchool-ReactNetflixClone/static/js/main.e7f3a5cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3c206c0.css",
+    "static/js/main.e7f3a5cf.js"
+  ]
+}
